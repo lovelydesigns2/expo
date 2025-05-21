@@ -10,6 +10,8 @@
 
 ### 🐛 Bug fixes
 
+- [Android] Add missing `onFirstFrameRender` event to the `VideoView` definition. ([#37014](https://github.com/expo/expo/pull/37014) by [@behenate](https://github.com/behenate))
+
 ### 💡 Others
 
 ## 2.1.9 — 2025-05-08
